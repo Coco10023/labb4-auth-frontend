@@ -1,5 +1,5 @@
 // URL till backend-routen för registrering
-const API_URL = "http://localhost:3000/api/auth/register";
+const API_URL = "https://labb4-auth-api.onrender.com/";
 
 // Hämtar formuläret och meddelande-elementet från HTML
 const form = document.getElementById("register-form");

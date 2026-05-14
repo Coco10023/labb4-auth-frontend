@@ -1,5 +1,5 @@
 // URL till login-endpointen
-const API_URL = "http://localhost:3000/api/auth/login";
+const API_URL = "https://labb4-auth-api.onrender.com/";
 
 // Hämtar HTML-element
 const form = document.getElementById("login-form");

@@ -1,5 +1,5 @@
 // URL till den skyddade routen i API:et
-const API_URL = "http://localhost:3000/api/products";
+const API_URL = "https://labb4-auth-api.onrender.com/";
 
 // Hämtar HTML-element
 const productsContainer = document.getElementById("products");
