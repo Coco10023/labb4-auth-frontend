@@ -1,5 +1,5 @@
 // URL till backend-routen för registrering
-const API_URL = "https://labb4-auth-api.onrender.com/api/register";
+const API_URL = "https://labb4-auth-api.onrender.com/api/auth/register";
 
 // Hämtar formuläret och meddelande-elementet från HTML
 const form = document.getElementById("register-form");
